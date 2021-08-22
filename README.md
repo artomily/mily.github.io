@@ -1,2 +1,2 @@
 # mily.github.io
-#disini adalah test saya mempublikasikan kode yang diajarkan oleh progate.com
+# here is my test published code taught by progate.com
